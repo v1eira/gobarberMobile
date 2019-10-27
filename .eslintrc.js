@@ -36,7 +36,7 @@ module.exports = {
   settings: {
     "import/resolver": {
       "babel-plugin-root-import": {
-        rootPathSffix: "src"
+        rootPathSuffix: "src"
       }
     }
   }
