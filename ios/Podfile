@@ -36,6 +36,7 @@ target 'gobarberMobile' do
 
 
 
+
   target 'gobarberMobileTests' do
     inherit! :search_paths
     # Pods for testing
