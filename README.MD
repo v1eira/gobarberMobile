@@ -26,7 +26,7 @@ If it's the first time you're running the application, do:
 $ react-native run-android
 ```
 
-If you've already ran the app before, do:
+If you've already run the app before, do:
 ```bash
 $ react-native start
 ```
